@@ -1,21 +1,21 @@
-# İsim Soyisim Yazdırma Programı
+# Name Display Application
 
-Bu proje, ASP.NET kullanarak oluşturulmuş basit bir uygulamadır. Kullanıcıların isim ve soyisim girmesine olanak tanır ve bu bilgileri ekranda gösterir.
+This project is a simple ASP.NET application that allows users to input their first and last names and displays these details on the screen.
 
-## Özellikler
+## Features
 
-- İsim ve soyisim girme formu
-- Girilen isim ve soyisimi ekranda gösterme
+- Form to input first and last names
+- Display of entered first and last names
 
-## Teknolojiler
+## Technologies
 
 - ASP.NET Web Forms
 - C#
 - HTML
 - CSS
 
-## Kurulum
+## Setup
 
-1. **Proje Dosyalarını İndirin:**
+1. **Clone the Project Files:**
    ```bash
-   git clone https://github.com/kullanici_adi/isim-soyisim-yazdirma.git
+   git clone https://github.com/your_username/name-display-app.git
